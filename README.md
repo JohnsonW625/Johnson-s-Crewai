@@ -74,3 +74,11 @@ Key task functions:
 
 - Avoid hard-coding API keys in the source. Use environment variables as implemented.
 
+## Example 🤖
+Introduce Johnson's background
+
+
+
+
+
+
