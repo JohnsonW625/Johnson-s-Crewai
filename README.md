@@ -77,6 +77,19 @@ Key task functions:
 ## Example 🤖
 Introduce Johnson's background
 
+Johnson Wang is a master’s student in Computational Biology and Data Science at Harvard University, with a strong academic background in biochemistry, mathematics, and computer science from Wake Forest University. He has extensive hands-on experience in machine learning, deep learning, and large language models, gained through research and internships at organizations like Ant Group, Meditrust Health Insurance, and IQVIA. Beyond technical expertise, Johnson is active in leadership, currently serving as Director of Career Development at the Harvard Chinese Students & Scholars Association, where he builds corporate partnerships and career opportunities for peers. His long-term goal is to pursue a career as a quantitative researcher or machine learning engineer, while preparing for future leadership roles in technology and finance.
+
+## What Worked 
+- 🎉 Successfully installed CrewAI and set up project structure
+- 🔧 Create reproducible results
+### ❌ What Didn't Work
+- 💳 Initial OpenAI API charge
+- 📋 Dependencies conflict(solved by using virtual envrionment)
+
+### 🎓 What I Learned
+- 🧠 How to structure CrewAI agents with personal knowledge and expertise
+- 👤 How to orchestrate a crew
+
 
 
 
