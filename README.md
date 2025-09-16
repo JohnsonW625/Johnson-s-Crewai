@@ -86,7 +86,7 @@ Johnson Wang is a master’s student in Computational Biology and Data Science a
 - 💳 Initial OpenAI API charge
 - 📋 Dependencies conflict(solved by using virtual envrionment)
 
-### 🎓 What I Learned
+## 🎓 What I Learned
 - 🧠 How to structure CrewAI agents with personal knowledge and expertise
 - 👤 How to orchestrate a crew
 
