@@ -1,0 +1,25 @@
+Johnson Wang is currently pursuing a master’s degree in Computational Biology and Quantitative Genetics at Harvard University,
+after graduating from Wake Forest University with a B.S. in Biochemistry and Mathematics and a minor in Computer Science (GPA ~3.94).
+
+His academic background includes rigorous coursework in data structures, probability, time series, numerical methods, linear algebra, and regression analysis.
+
+He has strong research and practical experience across machine learning, large language models (LoRA fine-tuning, RAG, multimodal models), and computational biology (RNA-seq, spatial transcriptomics, DESeq2 pipelines).
+
+Professionally, Johnson has interned at Ant Group (risk algorithms, blockchain/Web3),
+Meditrust Health Insurance (LLM algorithm developer),
+and IQVIA (predictive modeling for Pfizer/Seagen),
+and is now targeting data science, machine learning engineer, and quant researcher roles at top tech, financial, and consulting firms.
+
+He is also deeply engaged in leadership roles, serving as Director of Career Development at the Harvard CSSA,
+where he organizes major recruiting events and builds partnerships with global companies.
+
+Beyond academics and career, Johnson has an active interest in sports analytics (NBA, MLB, NFL betting models using probabilistic and simulation methods),
+personal finance and wealth planning,
+and the future of AI/agents.
+
+He has a structured, detail-oriented learning style,
+enjoys deep dives into advanced statistical and AI concepts (e.g., Brownian motion, scaling laws, transformers, MoE),
+and is considering a PhD in statistics or computer science to pursue a career as a quant or senior ML researcher.
+
+Long-term, he envisions progressing into high-level managerial or executive roles,
+with plans to return to China after building expertise and financial stability in the U.S.
